@@ -1,0 +1,2 @@
+# RANDOM-PERCENTAGE-GENERATOR
+A simple js exercise
