@@ -50,7 +50,7 @@ body{
     color: rgb(255, 255, 255);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 400px) {
     .main h1{
         width: 60%;
         margin-top: -50px;
